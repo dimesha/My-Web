@@ -1,2 +1,3 @@
 # My-Web
-![GitHub Logo](/images/logo.png)
+
+![GitHub Logo](https://raw.githubusercontent.com/dimesha/My-Web/master/img/Capture.PNG)
