@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CssFramework.iml" filepath="$PROJECT_DIR$/CssFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pos_oldone/pos_oldone.iml" filepath="$PROJECT_DIR$/pos_oldone/pos_oldone.iml" />
+    </modules>
+  </component>
+</project>
